@@ -21,7 +21,7 @@ This project is a Streamlit-based web application that automatically checks the 
 	streamlit run resume.py
 	```
 3. **Access the app**
-	- Open the provided local URL in your browser (e.g., http://localhost:8501)
+	- Open the provided local URL in your browser (https://automated-resume-relevance-check-system-1.streamlit.app)
 	- If using a cloud IDE, make sure to forward port 8501 to public.
 
 ## File Structure
