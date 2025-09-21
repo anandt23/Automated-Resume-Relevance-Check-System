@@ -37,5 +37,4 @@ This project is a Streamlit-based web application that automatically checks the 
 - langchain
 - openai
 
-## License
-MIT License
+
